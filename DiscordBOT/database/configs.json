@@ -1,6 +1,6 @@
 {
-    "token": "YOUR DISCORD BOT TOKEN",
-    "prefix": "YOUR PREFIX",
+    "token": "MTA1NjkyNzAzMTI4OTQ1MDU5Ng.GqyCxm.OkMRU5cl_3tdYDAGXV_qtgxzG8ywQngDtpljek",
+    "prefix": ">",
     "multilang": {
         "languages": ["English", "Português"]
     },
@@ -9,10 +9,10 @@
         "type": "STREAMING",
         "url": "https://twitch.tv/DemonV3"
     },
-    "admins": ["1 ADMIN ID", "ANOTHER ADMIN ID"],
+    "admins": ["952634634024394762", "ANOTHER ADMIN ID"],
     "channels": {
-        "logs": "714922279070597283",
-        "error": "714922312767635547"
+        "logs": "1012336203120529438",
+        "error": "1012336237908086824"
     },
     "methods": {
     	"layer7": ["CF_UAM", "JS_PROXY", "CLOUD_JS", "CLOUD_UAM", "SOCKETS", "HTTP_GET", "HTTP_PPS", "HTTP_GHP", "HTTP_HEAD", "HTTP_HEX", "HTTP_MAX", "HTTP_POST", "HTTP_FLOW", "HTTP_NULL", "HTTP_RAND", "HTTP_SKULL", "HTTP_COOKIE", "COLLAPSE"],
